@@ -1,0 +1,11 @@
+
+!pip install plotly
+!pip install cufflinks
+!pip install numpy
+!pip install pandas
+!pip install maplotlib
+!pip install seaborn
+!pip install showast
+!pip install DateTime
+
+Dataset :https://www.kaggle.com/rounakbanik/the-movies-dataset?select=keywords.csv
